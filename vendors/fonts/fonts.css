@@ -1,0 +1,20 @@
+@font-face {
+  font-family: 'Georgia';
+  font-style:  normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url("ofont.ru_Georgia.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: 'MADE Evolve Sans';
+  src: local('MADE Evolve Sans EVO'), local('MADEEvolveSansEVO'), url('Madeevolvesans.woff2') format('woff2'), url('Madeevolvesans.woff') format('woff'), url('Madeevolvesans.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'MADE Evolve Sans';
+  src: local('MADE Evolve Sans EVO Bold'), local('MADEEvolveSansEVO-Bold'), url('Madeevolvesansbold.woff2') format('woff2'), url('Madeevolvesansbold.woff') format('woff'), url('Madeevolvesansbold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}

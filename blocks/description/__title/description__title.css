@@ -1,0 +1,14 @@
+.description__title {
+  max-width: 400px;
+  font-size: 73px;
+  text-align: start;
+  position: absolute;
+  right: 230px;
+  font-family: 'Georgia';
+  font-style:  normal;
+  font-weight: 900;
+  font-display: swap;
+  color: #fff;
+  line-height: 1.1em;
+  letter-spacing: -0.02em;
+}

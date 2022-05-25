@@ -4,6 +4,10 @@
   display: flex;
   justify-content: flex-end;
   align-items: center;
+  font-family: 'MADE Evolve Sans';
+  font-style:  normal;
+  font-weight: 400;
+  font-display: swap;
 }
 
 @media screen and (max-width: 760px) {
