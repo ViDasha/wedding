@@ -1,0 +1,12 @@
+.description__video {
+  width: 880px;
+  height: 660px;
+  margin: 0;
+}
+
+@media screen and (max-width: 520px) {
+    .description__video {
+        width: 440px;
+        height: 330px;
+    }
+}

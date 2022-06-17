@@ -14,49 +14,49 @@
   <div class="page">
     <header class="header">
       <nav class="header__navigation">
-        <a href="#" class="header__nav-item header__nav-item_active">Главная</a>
-        <a href="#" class="header__nav-item">Наша история</a>
-        <a href="#" class="header__nav-item">Мероприятие</a>
-        <a href="#" class="header__nav-item">Как добраться</a>
+        <a href="#general" class="header__nav-item header__nav-item_active">Главная</a>
+        <a href="#story" class="header__nav-item">Наша история</a>
+        <a href="#event" class="header__nav-item header__nav-item_visible">О мероприятии</a>
+        <a href="#where" class="header__nav-item">Как добраться</a>
       </nav>
     </header>
     <main class="content">
-      <section class="description">
-        <h2 class="description__title">Свадьба Богдана & Даши</h2>
-        <video width="880" height="660" autoplay loop muted>
+      <section class="description" id="general">
+        <video class="description__video" autoplay loop muted>
           <source src="./images/our_video.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'>
         </video>
+        <h2 class="description__title">Свадьба Богдана & Даши</h2>
       </section>
-      <section class="our-story">
+      <section class="our-story" id="story">
         <h2 class="section-title">Наша история</h2>
         <ul class="cards">
           <li class="cards__item">
-            <img src="./images/cards-attention.png" alt="Книга 101 эссе, которые изменят ваше мышление" class="cards__image">
+            <img src="./images/cake_candles_icon_199451.png" alt="Торт с тремя свечами" class="cards__image">
             <h3 class="cards__title">Знакомство</h3>
             <p class="cards__description">Мы познакомились 4 июня 2015 года</p>
           </li>
           <li class="cards__item">
-            <img src="./images/cards-recall.png" alt="Скульптура задумчивого мальчика" class="cards__image">
+            <img src="./images/friends_icon_212271.png" alt="Иконка девочки и мальчика" class="cards__image">
             <h3 class="cards__title">Начало встреч</h3>
             <p class="cards__description">Пошли гулять зимой</p>
           </li>
           <li class="cards__item">
-            <img src="./images/cards-interliving.png" alt="Широкое помещение в серо-белых тонах с группой людей и высокими белыми линиями до потолка" class="cards__image">
+            <img src="./images/summer_holidays_vacation_sunny_icon_148886.png" alt="Иконка пальмы и пляжа" class="cards__image">
             <h3 class="cards__title">6 лет вместе</h3>
             <p class="cards__description">Изучайте несколько навыков одновременно, они обогащают друг друга.</p>
           </li>
           <li class="cards__item">
-            <img src="./images/cards-question.png" alt="Белое помещение с окнами и одним человеком" class="cards__image">
+            <img src="./images/ring_icon_137245.png" alt="Иконка кольца с бриллиантом" class="cards__image">
             <h3 class="cards__title">Предложение</h3>
             <p class="cards__description">Слушая преподавателя, придумывайте хороший вопрос, который вас действительно волнует.</p>
           </li>
       </section>
-      <section class="event">
+      <section class="event" id="event">
         <h2 class="section-title">Мероприятие</h2>
         <p class="section-subtitle">Кутузовский ЗАГС</p>
         <p class="section-subtitle">Ya cafe 3</p>
       </section>
-      <section class="where">
+      <section class="where" id="where">
         <div class="two-columns">
           <h2 class="section-title">Как добраться</h2>
         </div>

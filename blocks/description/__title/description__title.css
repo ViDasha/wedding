@@ -9,6 +9,18 @@
   font-weight: 900;
   font-display: swap;
   color: #fff;
-  line-height: 1.1em;
+  line-height: 1em;
   letter-spacing: -0.02em;
+}
+
+@media screen and (max-width: 520px) {
+  .description__title {
+    position: relative;
+    margin: 0;
+    bottom: 87px;
+    left: 0;
+    line-height: 0.9em;
+    text-align: center;
+    font-size: 60px;
+  }
 }
