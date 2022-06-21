@@ -23,6 +23,10 @@
 @import url(../blocks/cards/__item/cards__item.css);
 @import url(../blocks/cards/__description/cards__description.css);
 
-@import url(../blocks/our-story/our-story.css);
+@import url(../blocks/background/background.css);
+@import url(../blocks/event/event.css);
+@import url(../blocks/event/__box/event__box.css);
+@import url(../blocks/event/__img/event__img.css);
+@import url(../blocks/event/__info/event__info.css);
 
 @import url(../blocks/footer/footer.css);
