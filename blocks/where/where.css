@@ -1,0 +1,8 @@
+.where {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  min-height: 500px;
+  padding: 100px 0;
+  background-color: #fff;
+}
