@@ -1,0 +1,9 @@
+.greetings {
+  display: grid;
+  gap: 100px;
+  grid-template-columns: auto auto;
+  background-color: #fff;
+  min-height: 400px;
+  justify-content: center;
+  align-items: center;
+}

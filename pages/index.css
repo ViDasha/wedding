@@ -8,12 +8,15 @@
 @import url(../blocks/header/__nav-item/_active/header__nav-item_active.css);
 @import url(../blocks/header/__nav-item/_visible/header__nav-item_visible.css);
 
+@import url(../blocks/greetings/greetings.css);
+
 @import url(../blocks/description/description.css);
 @import url(../blocks/description/__title/description__title.css);
 @import url(../blocks/description/__video/description__video.css);
 
 @import url(../blocks/our-story/our-story.css);
 @import url(../blocks/section-title/section-title.css);
+@import url(../blocks/section-text/section-text.css);
 @import url(../blocks/cards/cards.css);
 @import url(../blocks/cards/__title/cards__title.css);
 @import url(../blocks/cards/__image/cards__image.css);
