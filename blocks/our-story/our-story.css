@@ -1,6 +1,6 @@
 .our-story {
-  background-color: #fff;
-  min-height: 400px;
+  background-color: #f5f4f2;
+  min-height: 250px;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -12,4 +12,5 @@
   color: #000;
   line-height: 1.1em;
   letter-spacing: -0.02em;
+  padding: 120px 0;
 }

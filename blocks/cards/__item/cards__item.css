@@ -1,5 +1,9 @@
 .cards__item {
   text-decoration: none;
-  margin-right: 20px;
+  margin-right: 50px;
   width: 200px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
 }

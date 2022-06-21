@@ -1,5 +1,10 @@
 .cards__description {
-    margin: 0;
+    margin: 20px 0 0;
     max-width: 260px;
     text-decoration: none;
+    text-align: center;
+    font-family: 'MADE Evolve Sans';
+    font-weight: 400;
+    font-style: normal;
+    font-size: 18px;
 }
