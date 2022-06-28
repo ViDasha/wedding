@@ -7,3 +7,11 @@
   top: 150px;
   z-index: 0;
 }
+
+@media screen and (max-width: 760px) {
+  .background {
+    width: 290px;
+    height: 370px;
+    top: 200px;
+  }
+}
