@@ -7,3 +7,12 @@
   justify-content: center;
   align-items: center;
 }
+
+@media screen and (max-width: 760px) {
+  .greetings {
+    min-height: 200px;
+    grid-template-columns: auto;
+    padding: 50px 15px;
+    gap: 50px;
+  }
+}
