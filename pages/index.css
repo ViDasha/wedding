@@ -35,5 +35,10 @@
 @import url(../blocks/where/__map/where__map.css);
 @import url(../blocks/where/where.css);
 
+@import url(../blocks/aphorism/aphorism.css);
+@import url(../blocks/aphorism/__blockquote/aphorism__blockquote.css);
+@import url(../blocks/aphorism/__text/aphorism__text.css);
+@import url(../blocks/aphorism/__author/aphorism__author.css);
+
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__author/footer__author.css);
