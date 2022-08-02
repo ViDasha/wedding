@@ -1,0 +1,13 @@
+.event__box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 100px;
+}
+
+@media screen and (max-width: 760px) {
+  .event__box {
+    margin-top: 50px;
+    flex-direction: column;
+  }
+}

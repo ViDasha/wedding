@@ -8,18 +8,32 @@
 @import url(../blocks/header/__nav-item/_active/header__nav-item_active.css);
 @import url(../blocks/header/__nav-item/_visible/header__nav-item_visible.css);
 
+@import url(../blocks/greetings/greetings.css);
+
 @import url(../blocks/description/description.css);
 @import url(../blocks/description/__title/description__title.css);
 @import url(../blocks/description/__video/description__video.css);
 
 @import url(../blocks/our-story/our-story.css);
 @import url(../blocks/section-title/section-title.css);
+@import url(../blocks/section-subtitle/section-subtitle.css);
+@import url(../blocks/section-text/section-text.css);
 @import url(../blocks/cards/cards.css);
 @import url(../blocks/cards/__title/cards__title.css);
 @import url(../blocks/cards/__image/cards__image.css);
 @import url(../blocks/cards/__item/cards__item.css);
 @import url(../blocks/cards/__description/cards__description.css);
 
-@import url(../blocks/our-story/our-story.css);
+@import url(../blocks/background/background.css);
+@import url(../blocks/background/_theme/background_theme_where.css);
+@import url(../blocks/event/event.css);
+@import url(../blocks/event/__box/event__box.css);
+@import url(../blocks/event/__img/event__img.css);
+@import url(../blocks/event/__info/event__info.css);
+
+@import url(../blocks/where/__info/where__info.css);
+@import url(../blocks/where/__map/where__map.css);
+@import url(../blocks/where/where.css);
 
 @import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__author/footer__author.css);

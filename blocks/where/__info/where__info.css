@@ -1,0 +1,10 @@
+.where__info {
+  display: flex;
+  flex-direction: column;
+  z-index: 1;
+}
+
+@media screen and (max-width: 760px) {
+  .where__info {
+  }
+}

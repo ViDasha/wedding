@@ -1,0 +1,17 @@
+.where {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  min-height: 500px;
+  padding: 100px 0;
+  background-color: #fff;
+}
+
+@media screen and (max-width: 760px) {
+  .where {
+    padding: 50px 0;
+    flex-direction: column;
+    min-height: 300px;
+    align-items: center;
+  }
+}
